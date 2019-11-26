@@ -1,6 +1,9 @@
 from tkinter import *
 import os
 
+def delete7():
+	pass
+
 def delete2():
 	screen3.destroy()
 
