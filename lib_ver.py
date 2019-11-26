@@ -2,7 +2,7 @@ from tkinter import *
 import os
 
 def delete7():
-	pass
+	print("deleting...")
 
 def delete2():
 	screen3.destroy()
