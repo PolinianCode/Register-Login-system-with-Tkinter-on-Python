@@ -1,10 +1,5 @@
 from tkinter import *
 import os
-
-def delete7():
-	print("deleting...")
-	print("")
-
 def delete2():
 	screen3.destroy()
 
@@ -142,5 +137,3 @@ def main_screen():
 	screen.mainloop()
 
 main_screen()
-
-#Comment
